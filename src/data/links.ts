@@ -17,9 +17,9 @@ export const socialLinks = {
 // ── Project Repository Links ────────────────────────────────
 //    Set to empty string '' to hide the GitHub button on that project.
 export const projectLinks = {
-  eventTicketBooking: '',   // e.g. 'https://github.com/madhavtripathi93/event-ticket-booking'
-  multiRAG: '',             // e.g. 'https://github.com/madhavtripathi93/multi-rag'
-  cricketTournament: '',    // e.g. 'https://github.com/madhavtripathi93/cricket-tournament-sql'
+  eventTicketBooking: 'https://github.com/madhavtripathi93/event-ticket-booking',
+  multiRAG: 'https://github.com/madhavtripathi93/MultiRAG-',
+  cricketTournament: 'https://github.com/madhavtripathi93/DevOps-Project',
 }
 
 // ── Certificate Verification Links ──────────────────────────
